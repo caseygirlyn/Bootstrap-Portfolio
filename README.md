@@ -1,4 +1,4 @@
-# Bootstrap-Portfolio Website
+# Bootstrap Portfolio Website
 
 Welcome to my portfolio website! This project showcases my skills and projects in a visually appealing and user-friendly manner.
 
@@ -30,6 +30,10 @@ This bootstrap portfolio website serves as a platform to present my professional
 ## Screenshot
 
 ![Home Page](./images/Bootstrap-Portfolio.png)
+
+## Link to Project
+
+The live version of this project can be found [here](https://caseygirlyn.github.io/Bootstrap-Portfolio/).
 
 ## Usage
 
