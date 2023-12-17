@@ -22,11 +22,11 @@ body {
   border: 5px solid var(--primary-color);
 }
 
-.primary-color{
+.primary-color {
   color: var(--primary-color);
 }
 
-.bg-primary-color{
+.bg-primary-color {
   background-color: var(--primary-color);
 }
 
@@ -36,20 +36,20 @@ body {
 }
 
 /* card style */
-.card{
+.card {
   border-color: var(--primary-color) !important;
 }
 
 /* contant links style */
-#contact a:hover{
+#contact a:hover {
   background-color: var(--primary-color);
-  box-shadow: 1px 2px 5px #333;
+  box-shadow: 1px 2px 5px var(--primary-color);
   color: #fff;
 }
 
 /* media queries */
-@media screen and (min-width:1200px) {
-  .caption{
+@media screen and (min-width: 1200px) {
+  .caption {
     position: absolute;
     margin-top: 15%;
   }
@@ -58,14 +58,14 @@ body {
   }
 }
 
-@media screen and (min-width:768px) {
+@media screen and (min-width: 768px) {
   .border-start {
     border-color: var(--primary-color) !important;
   }
 }
 
-@media screen and (max-width:767px){
-  .border-start{
+@media screen and (max-width: 767px) {
+  .border-start {
     border-left: 0 !important;
   }
 }
